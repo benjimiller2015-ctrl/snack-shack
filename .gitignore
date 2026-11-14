@@ -1,0 +1,18 @@
+# Publish only the current Snack Shack site and its assets.
+/*
+!/index.html
+!/.gitignore
+!/.nojekyll
+!/images/
+/images/*
+!/images/hero.png
+!/images/snacks/
+/images/snacks/*
+!/images/snacks/doritos.png
+!/images/snacks/hot_cheeto.png
+!/images/snacks/kitkat.png
+!/images/snacks/reeses.png
+!/images/snacks/skittles.png
+!/images/snacks/sour_patch_kids.png
+!/images/snacks/takis.png
+!/images/snacks/trolli.png
